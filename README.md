@@ -14,4 +14,4 @@ A toolbox/electron gui recreation of the old hit counter from brawler patch
 
 ## Preview
 
-![video preview link](https://i.gyazo.com/d62d83edb89c7dc374483301ccb75998.mp4)
+[preview link](https://i.gyazo.com/d62d83edb89c7dc374483301ccb75998.mp4)

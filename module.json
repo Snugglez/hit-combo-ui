@@ -1,0 +1,18 @@
+{
+	"disableAutoUpdate": false,
+	"name": "hit-combo-ui",
+	"author": "Snug",
+	"description": "A toolbox/electron gui recreation of the old hit counter from brawler patch",
+	"version": "1.0",
+	"donationUrl": "https://play.google.com/store/apps/details?id=com.CarvedGames.SD",
+	"options": {
+		"guiName": "hit-combo-ui",
+		"niceName": "HitComboUI",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "config_generator.js"
+	},
+	"servers": [
+		"https://raw.githubusercontent.com/Snugglez/hit-combo-ui/main/"
+	]
+}

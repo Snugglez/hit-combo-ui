@@ -1,0 +1,13 @@
+{
+	"files": {
+		"README.md": "e7ee407c3be4ae610c79da4b0579ad6cde4594a8b8e501a8430d3b17ab1c8e73",
+		"config_generator.js": "264756251614b580c478d5331e9d33e11b2ad1cfb1d6a20de09081eb8ac15345",
+		"index.js": "7316c1790d01630191ae06c89cdbf2048c0b8706a08f1b6c71166054eb740b6f",
+		"module.json": "526b6bb18773c5c0c6ea8ec7f456fff60040c03e9d5294f2fde1d2de9210b199",
+		"ui/index.html": "5be7363f69e5a18a3550980b523db9242d5a8614c50eedcee408b6f3bca98f74",
+		"ui/main.js": "1927e836a95abfa72599ab6ed1672c2152f317a59cd98edcb45685d0d28ff377"
+	},
+	"defs": {
+		"S_HIT_COMBO": 1
+	}
+}

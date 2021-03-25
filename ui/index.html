@@ -1,0 +1,62 @@
+<html>
+
+<head>
+  <script src="main.js"></script>
+  <style type="text/css" class="INLINE_PEN_STYLESHEET_ID">
+    a {
+      position: absolute;
+      border: none;
+      width: 100%;
+      font-size: 95vh;
+      margin-left: auto;
+      margin-right: 0;
+      color: white;
+      font-family: 'Acme', sans-serif;
+      text-align: right;
+      text-shadow: 1px 1px 3px #000000;
+      top: 50%;
+      transform: translate(0%, -50%);
+      -webkit-app-region: drag;
+      overflow: hidden;
+    }
+
+
+    body {
+      margin: 3px;
+      position: relative;
+      border: 0px solid black;
+      -webkit-app-region: no-drag;
+      overflow: hidden
+    }
+
+    @keyframes shake {
+
+      0%,
+      100% {
+        transform: scale(1) translate(0%, -50%);
+      }
+
+      35% {
+        transform: scale(0.9) translate(0%, -50%);
+      }
+
+      65% {
+        transform: scale(1.1) translate(-5%, -50%);
+      }
+    }
+
+    @keyframes noShake {
+
+      0%,
+      100% {
+        transform: scale(1) translate(0%, -50%);
+      }
+    }
+  </style>
+</head>
+
+<body id="mainBody" style="border: 0px solid black;">
+  <a id="hitCount" style="color: white;">hitui</a>
+</body>
+
+</html>
